@@ -1,6 +1,6 @@
 # Framing
 
-
+Framing focuses on the inital user experience and agreement on the MVP.  
 
 ## Framing Goals
 

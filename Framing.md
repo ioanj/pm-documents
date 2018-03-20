@@ -6,7 +6,6 @@
 
 - Complete the user flows
 - Start the wireframes
-- Complete required Allstate compliance artifacts - Security impact, Interface impact, Financial impact (forms/location and start date is TBD)
 - Define Epics
 - Determine the MVP (must have, like to have, icebox, other)
 
@@ -32,7 +31,6 @@
   - Document additional risks
   - Document additional assumptions
   - Document additional questions/follow ups
-  - Begin to complete the Security impact, Interface impact and Financial impact documents
   - Review the parking lot
   - Define initial KPIs and metrics (these must align to goals)
   - Define the MVP

@@ -1,11 +1,15 @@
-## Scoping Goals
+# Scoping
 
 Scoping is a focused, time-boxed discussion with key members of the XP and product teams and the stakeholders.
+
+
+
+## Scoping Goals
 
 The purpose of Scoping is to understand:
 
 - **Why** we are building this product?
-  - What benefits will CVS and the users realize from using the product (what problem are we trying to solve?)
+  - What benefits will CVS and the users realize from using the product (what problem are we trying to solve?).  What does success look like (what OKRs will we use to determine if the benefits are realized?)
 - **What** will the product do? 
   - i.e. not _how_ it will do it  You're not solutioning, although some technical discussion is fine if it brings clarity to the conversation
 - **Who** is going to use it?

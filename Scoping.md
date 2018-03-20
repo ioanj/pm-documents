@@ -1,31 +1,39 @@
 ## Scoping Goals
 
-Scoping is a focused, time-boxed discussion with 
-The purpose of Scoping is to understand
+Scoping is a focused, time-boxed discussion with key members of the XP and product teams and the stakeholders.
+
+The purpose of Scoping is to understand:
 
 - **Why** we are building this product?
   - What benefits will CVS and the users realize from using the product (what problem are we trying to solve?)
-- **What** will the application do? 
+- **What** will the product do? 
   - i.e. not _how_ it will do it  You're not solutioning, although some technical discussion is fine if it brings clarity to the conversation
 - **Who** is going to use it?
   - Get enough information to provide a high-level estimate
 
 ### Scoping Expectations
 
+The participants full attention and participation is required and will be directly reflected in the outcome of the session.  To that end, inform the participants that...
+
 - We need your full attention and energy to focus on the discussion
 - Be engaged
 - Remove distractions such as phones and laptops
 - This will enable us to obtain the information we need to provide a quality estimate.
 
+
+
 ## Prepare for Scoping
+
+As the Product Manager:
 
 - Meet with the Product Owner
   - Discuss the product
   - Get existing documentation
-  - Obtain list of invitees
-    - Product Manager
-    - Application Architect/SME/SA
-    - Product Designer
+  - Obtain list of additional invitees
+    - Application Architect
+    - SME
+    - SA
+    - Stakeholders (a single stakeholder is best, someone _directly_ connected to the product and the related business)
 - Schedule Room (90 minutes - 2 hours)
   - Large whiteboard recommended
   - Room for facilitator and note taker to move around freely
@@ -68,6 +76,7 @@ _Put the timeframes next to each agenda item_
 - **Support after MVP**      5 min
 
 
+
 ## Scoping Template
 
 Use the template to help lead the conversation by writing it out on the white board prior to the start of the session.  As new infomation is discussed, capture it on the white baord.  This will be the official recording of the session.
@@ -103,11 +112,15 @@ _A guided conversation is best, with a facilitator and a scribe.  Generally work
 
 **Timelines** : Are there any desired dates to start this work?  Any desired date to deliver an MVP?
 
+
+
 ## Invitees
   - Business Owner
   - Product Manager
   - Product Designer
   - Application Architect/SME/SA
+
+
 
 ## Estimate
 

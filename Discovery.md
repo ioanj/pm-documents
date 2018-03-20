@@ -1,21 +1,22 @@
 # Discovery
 
-
-
-## Discovery Goals and Expectations
-
 Discovery is about identifying the big unknowns.  This may be validating that you&#39;re solving the right problem, uncovering some required user research or finding key technological unknowns.  You don&#39;t have to solve everything, just get enough information or just get the proverbial ball rolling towards a solution.
 
-Discovery Goals
+
+
+## Goals
 
 - Prioritize risks and assumptions
 - Find out what we don&#39;t know
   - Discover what could prevent us from going into product execution
+    - Are there any high-risk assumptions we must address before moving forward?
+    - Do we need to conduct any research (user or technical)?
 - Begin to get answers to questions
   - Schedule follow-up sessions with SMEs, etc to get answers
+  - Plan and execute research.  Rinse and repeat as necessary
 - Develop mitigation plans for high priority risks and assumptions
 
-Behaviors
+## Behaviors
 
 - We need your full attention and energy to focus on the discussion
 - Be engaged
@@ -24,7 +25,7 @@ Behaviors
 - 1 hour lunch break
 
 
-## Prepare for Discovery &amp; Framing
+## Prepare for Discovery
 
 Discovery and Framing are typically run back-to-back.  Schedule a single room for the entire &quot;D&amp;F&quot; duration.  You&#39;ll want to keep all your post-its, whiteboard work, etc. in the same place day-to-day.  This helps to maintain continuity in your conversation.
 

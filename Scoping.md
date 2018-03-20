@@ -28,26 +28,26 @@ The participants full attention and participation is required and will be direct
 
 ## Prepare for Scoping
 
-As the Product Manager:
-
-- Meet with the Product Owner
+1. Prepare the list of attendees
+  - Business Owner
+  - Product Manager
+  - Product Designer (from XP Team)
+  - Anchor (from XP Team)
+  - Application Architect/SME/SA
+2. Meet with the Product Owner
   - Discuss the product
   - Get existing documentation
   - Obtain list of additional invitees
-    - Application Architect
-    - SME
-    - SA
-    - Stakeholders (a single stakeholder is best, someone _directly_ connected to the product and the related business)
-- Schedule Room (90 minutes - 2 hours)
+3. Schedule Room (90 minutes - 2 hours)
   - Large whiteboard recommended
   - Room for facilitator and note taker to move around freely
   - Projector/monitor (helpful, but optional)
-- Send invitation
+4. Send invitation
   - Include the scoping goals and agenda to the invitees
-- Pair with another Product Manager
+5. Pair with another Product Manager
   - One person facilitates the meeting
   - The other writes on the board (no laptop note taker)
-- Bring stickies, notes, pens for people to take notes and jot down questions
+6. Bring stickies, notes, pens for people to take notes and jot down questions
 
 
 
@@ -73,7 +73,7 @@ _Put the timeframes next to each agenda item_
     - Risks
     - Actions/Follow-up
 - **Timeline** 5 min
-- **Funding (IO)**           5 min
+- **Funding**           5 min
 - **Team** 5 min
   - Need to mention the expectation of the resources. Example, everybody on the product team has to come to work, no work from home option
   - Developers will pair
@@ -115,14 +115,6 @@ _A guided conversation is best, with a facilitator and a scribe.  Generally work
 **People** :  List team members (Product Manager, Developers, Product Designers)
 
 **Timelines** : Are there any desired dates to start this work?  Any desired date to deliver an MVP?
-
-
-
-## Invitees
-  - Business Owner
-  - Product Manager
-  - Product Designer
-  - Application Architect/SME/SA
 
 
 

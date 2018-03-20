@@ -1,9 +1,10 @@
 # Inception
 
+Inception brings the entire Product team together for the first time.  This is where you'll all develop a *common understanding* of what you'll be building, the desired outcomes.  At the end of the session, you'll walk out with a prioritized backlog - the next step is to get into the lab and start building!
 
 
-## Goals and Expectations
-Inception Goals
+
+## Goals
 
 - Build a prioritized backlog
 - Understand team expectations
@@ -11,7 +12,7 @@ Inception Goals
 - Develop a collective understanding across the team of **what** you are building, for **who** and **why**
   - Have a collective understanding of the product&#39;s MVP
 
-Behaviors
+## Behaviors
 
 - We need your full attention and energy to focus on the discussion
 - Be engaged

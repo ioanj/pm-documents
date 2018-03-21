@@ -7,7 +7,7 @@ Each team meets to get a concise briefing from each member on what they accompli
 
 ## How
 
-- Starts at the same time each day
+- Starts at the same time each day (typically immediately after the lab stand up)
 - In turn, each team member _briefly_ shares
   - what they accomplished the previous day
   - What they expect to accompish today

@@ -1,4 +1,4 @@
-# Stand up
+# Team Stand Up
 
 
 ## What

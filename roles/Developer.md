@@ -9,8 +9,8 @@ The Developer is accountable for the technical excellence of the product.  They 
 * Responsible for the technical excellence of the product
 * Coach the team members in XP practices and Product Mindset
 * Technical SME with domain and historical knowledge of the product 
-* Works with product owner and developers from product inception to production go-live
-* Works with the PM on user story prioritization and to ensure that stories are written at the right level and are unblocked
+* Works with the Product Manager and the team's Developers from product inception to production go-live
+* Works with the Product Manager on user story prioritization (from a technical perspective) and to ensure that stories are written at the right level and are unblocked
 * Points user stories based on effort, complexity and uncertainty
 * Guides product team as technical constraints and potential risks are identified
 * Consults on potential scope changes and other issues related to technical design

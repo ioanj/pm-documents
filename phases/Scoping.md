@@ -91,7 +91,7 @@ _A guided conversation is best, with a facilitator and a scribe.  Generally work
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Business Goals |   | Product Goals |   | Engagement Goals |   | Actors and Activities |   | Risks | People |
 |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   | Anti-Goals | Timelines |
+| KPIs  |   |   |   |   |   |   |   | Anti-Goals | Timelines |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   | Technology and Interactions |   |
 |   |   |   |   |   |   |   |   |   |   |

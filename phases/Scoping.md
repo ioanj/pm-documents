@@ -62,7 +62,7 @@ _Put the timeframes next to each agenda item_
 - **What are Lean and eXtreme Programming (XP)?**      5 min
 - **Scoping Objectives**      2 min
 - **Elevator Pitch &amp; Product Vision**   5 minutes
-- **Business Goals**             15 min
+- **Business Goals & KPIs**             15 min
 - **Product Goals**               30 min
 - **Actors & Activities**           30 min
 - **Technology/Interfaces/Interactions**   5 min

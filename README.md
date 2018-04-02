@@ -1,5 +1,5 @@
 # pm-documents
-Not really Product Manager documents
+Placeholder only... Not really just Product Manager documents
 
 **Table of Contents**
 
